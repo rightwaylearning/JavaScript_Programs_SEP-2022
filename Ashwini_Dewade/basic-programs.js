@@ -1,7 +1,9 @@
+
 let fName = "Ashwini";
 console.log(typeof fName);
 
-let lName = "Dewade";
+let status = true;
+console.log(typeof status);
 
 let Age = 24;
 console.log(typeof Age);
@@ -13,7 +15,6 @@ let grade = "A";
 console.log(typeof grade);
 
 console.log("fName",fName);
-console.log("lName",lName);
-console.log("Age", Age);
-console.log("percentage", percentage);
+console.log("Age", +Age);
+console.log("percentage", +percentage);
 console.log("Grade", grade);
