@@ -1,5 +1,11 @@
-function display(a,b){
-    let sum=a+b;
-    return sum;
+let info={
+    name:"sarthak",
+    r_n:45
 }
-console.log(display(10,20));
+function display(obj){
+    console.log(obj.r_n);
+    return obj.name;
+}
+//let a;
+//console.log(typeof a);
+console.log(display(info));
