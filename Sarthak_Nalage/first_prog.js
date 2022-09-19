@@ -1,5 +1,5 @@
-function display(msg){
-    console.log("Good Morning",msg);
-
+function display(a,b){
+    let sum=a+b;
+    return sum;
 }
-display("sarthak");
+console.log(display(10,20));
