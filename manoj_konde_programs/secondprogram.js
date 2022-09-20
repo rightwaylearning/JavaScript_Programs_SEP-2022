@@ -1,6 +1,6 @@
 
 
-function showName();{
+function showName(){
 
     let name = "the manoj";
      console.log(name);
