@@ -22,3 +22,19 @@ while(a<11){
     console.log(a*9)
     a = a + 1;
 }
+
+let q = 19;
+if(q%2==0){
+    console.log("true");
+}
+else{
+    console.log("false");  
+}
+
+let t = 36
+if(t%2==0){
+    console.log("true");
+}
+else{
+    console.log("false");  
+}
