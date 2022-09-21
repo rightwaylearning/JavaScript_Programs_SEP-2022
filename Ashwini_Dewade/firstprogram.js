@@ -1,2 +1,3 @@
 
-console.log("good moring");
+show greetings();
+console.log("good morning");
