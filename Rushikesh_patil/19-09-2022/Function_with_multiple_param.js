@@ -1,10 +1,11 @@
-function area(radius){
-    let areaofCircle=3.14*radius*radius;
-    return areaofCircle;
+
+function test(firstName,secondName){
+    let sum=firstName+secondName;
+    return sum;
 }
 
-let result=area(2);
-console.log(result);
+let test1=test(10,20);
+console.log(test1);
 
-let result1=area(3);
-console.log(result1);
+let test2=test(40,80);
+console.log(test2);

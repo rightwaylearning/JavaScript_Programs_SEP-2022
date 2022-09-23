@@ -10,3 +10,9 @@ let r;
 console.log(typeof r);
 
 console.log(r);
+
+let s = "Hello";
+
+console.log(typeof s);
+
+console.log(typeof"Hello");
