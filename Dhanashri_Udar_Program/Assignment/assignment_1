@@ -1,0 +1,47 @@
+/// create one array of Employee object
+// Employee object propetries 
+/*
+name:
+salary:
+age:
+
+*/
+// 40+ >> employee_cat : "S"  or "J"
+
+
+let employee =[
+    {
+        Name:"Dhanashri",
+        Salary: 30000,
+        Age: 23
+    },
+    {
+        Name:"Rutuja",
+        Salary: 40000,
+        Age: 23  
+    },
+    {
+        Name:"Shitel",
+        Salary: 50000,
+        Age: 25
+    },
+    {
+        Name:"Raju",
+        Salary: 60000,
+        Age: 26
+    }
+];
+
+let index = 0;
+while(index < employee.length){
+    if(employee[index].Salary>=40000){
+        employee[index].category="Senior";
+    }
+    else{
+        employee[index].category="Junior";
+    }
+    index = index+1;
+
+}
+console.log(employee);
+
