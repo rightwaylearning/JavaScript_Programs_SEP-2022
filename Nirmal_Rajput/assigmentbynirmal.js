@@ -34,7 +34,7 @@ let employee =[
     while(index < employee.length){
         console.log(employee[index]);
 
-   if(employee[index].age == 24){
+   if(employee[index].salary >= 7000){
 
     employee[index].group = "senior person";
   }
