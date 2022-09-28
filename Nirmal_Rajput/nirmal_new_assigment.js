@@ -13,7 +13,6 @@ let student_info = [
                 pin: 453685                
                  }  
     
-    
             },
        isactive:true,
        rank:undefined,
@@ -25,9 +24,9 @@ let student_info = [
         age: 25,
         mobilenum:[5463835467,6574869858,3254769454,65747756485],
         school:{
-            name:"rdmp jr collgr",
-            headmaster:"rajput sir",
-            aaddress:{
+                 name:"rdmp jr collgr",
+                 headmaster:"rajput sir",
+                  aaddress:{
                      line1:"at post dhule",
                      line2:"jayhindd coohe",
                      landmark:"bus stand",
