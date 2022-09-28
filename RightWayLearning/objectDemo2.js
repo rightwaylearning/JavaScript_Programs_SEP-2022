@@ -1,4 +1,5 @@
 
+
  function takeMarks(subject){
    console.log(subject.subjectName);
    console.log(subject.marks);
