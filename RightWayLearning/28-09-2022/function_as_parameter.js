@@ -36,10 +36,12 @@ console.log(">>>>>>>>>>>>>>>>>>>>>>>>");
 
 function run(){
     return function(){
-        console.log("test hello");
-    };
+        console.log("hello");
+    }
 }
-run()();
+let n1=run();
+n1();
+
 
 
 
