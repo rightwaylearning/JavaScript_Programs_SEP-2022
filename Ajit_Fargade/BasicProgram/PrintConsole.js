@@ -1,3 +1,4 @@
 // Print value
 
-Console ="Print console value";
+
+console.log("Print console value");
