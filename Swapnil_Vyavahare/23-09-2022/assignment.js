@@ -1,4 +1,3 @@
-
 let employeeList = [
     {
         name:"ab",
@@ -30,12 +29,3 @@ while(i < employeeList.length){
     i = i +1;
 }
 console.log(employeeList);
-
-
-
-
-
-
-
-
-
