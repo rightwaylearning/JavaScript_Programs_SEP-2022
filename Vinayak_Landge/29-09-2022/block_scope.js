@@ -21,4 +21,4 @@ var b = 20;
 
 console.log(a);
 console.log(c); // variable c is initialized by var keyword so it has no block scope and it will get print
-                // but if we want to print m which is init by let keyword the it will get error
+                // but if we want to print m which is init by let keyword then it will get error
