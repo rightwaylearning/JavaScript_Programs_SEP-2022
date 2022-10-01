@@ -1,4 +1,3 @@
-
 //==============================
 // in javascript variable are typeless, value have type , according to data/
 // value assigned to variable we are going to decide data type of that variable
@@ -33,22 +32,4 @@ function getData(){
 
 let data = getData();
 data(); 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
