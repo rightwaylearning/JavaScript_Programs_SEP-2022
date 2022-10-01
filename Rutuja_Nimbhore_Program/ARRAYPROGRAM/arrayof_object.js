@@ -28,3 +28,14 @@ while(index<students.length)
    index=index+1;
 }
 console.log(students);
+
+
+
+
+
+
+
+
+
+
+

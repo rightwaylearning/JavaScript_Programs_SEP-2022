@@ -44,4 +44,3 @@ while(index < employee.length){
 
 }
 console.log(employee);
-
