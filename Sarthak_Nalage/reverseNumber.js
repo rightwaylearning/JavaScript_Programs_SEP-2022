@@ -8,3 +8,4 @@ for(n=10;n>0;n--){
     console.log(n);
 }
 console.log(n);
+module.imports.m2("./methodreturn.js");
