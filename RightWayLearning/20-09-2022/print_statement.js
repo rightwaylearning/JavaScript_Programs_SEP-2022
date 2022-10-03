@@ -8,7 +8,7 @@ if(n%2 == 0){
 }
 
 //------------------------------
-// here foo is fuction block
+// here foo is function block
 function foo(){
 
 }
