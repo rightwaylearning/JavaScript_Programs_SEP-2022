@@ -6,10 +6,13 @@
     }
 }
 let m1=selexe();
-console.log(m1());
+m1();
+//module.exports.m2=v;
+
+//console.log(m1());
 //console.log("sarthak");
-let v=undefined;
-console.log(typeof v);
+//let v=undefined;
+//console.log( v);
 
 
 //(selexe())();
