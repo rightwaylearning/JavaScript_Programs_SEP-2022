@@ -9,10 +9,17 @@ function myFunctionName(){                           // define first function
 }
 
 myFunctionName();                                    // call to function 
-myFunctionName();                                    // call to function 
 myFunctionName();                                    // call to function ****** Multiple time call to one function****
 
 // outPut: =========================
 //This is my first function
 //This is my first function
 //This is my first function
+// ===============================================================================
+
+
+//------------------------------
+// here Car is function block
+function Car(){
+
+}
