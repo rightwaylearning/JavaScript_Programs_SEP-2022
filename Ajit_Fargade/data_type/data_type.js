@@ -17,5 +17,6 @@ let num = undefined;    // let num = undefined;
 console.log(typeof num);
 
 
-
+// in javascript data have type not variable
+// int java variable have type not a data.
 
