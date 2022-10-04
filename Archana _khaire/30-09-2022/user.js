@@ -1,9 +1,7 @@
 let obj = module.require("./cal.js");
-// const {sum,sub,mul,div} = module.require("./cal.js");
-// here no need to use obj
 
-let s = obj.sum(10,20);
-console.log(s);
+let a = obj.sum(10,20);
+console.log(a);
 
 let s1 = obj.sub(100,20);
 console.log(s1);
