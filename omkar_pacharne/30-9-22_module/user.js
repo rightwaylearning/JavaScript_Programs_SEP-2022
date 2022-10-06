@@ -14,5 +14,5 @@ let m=obj.mul(10,20);
 
 console.log(m)
 
-let d=obj.div(100,20);
+let d = obj.div(100,20);
 console.log(d)

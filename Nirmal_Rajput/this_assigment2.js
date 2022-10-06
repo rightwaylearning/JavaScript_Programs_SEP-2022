@@ -17,7 +17,6 @@ let m = {
     lastname:"rajput"
 }
 m.moo = printfullname;
-
 console.log(m.moo());
 
 
@@ -26,5 +25,4 @@ let n = {
     lastname:"rajput"
 }
 n.noo = printfullname;
-
 console.log(n.noo());
