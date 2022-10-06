@@ -1,2 +1,2 @@
   k=10;
-  console.log(k);
+  console.log(k); 
