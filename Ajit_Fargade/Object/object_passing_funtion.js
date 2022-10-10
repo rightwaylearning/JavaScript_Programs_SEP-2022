@@ -1,11 +1,11 @@
 console.log('== Pro-1 ==========================')
 // Pro-1: Passing object to function
 
-let StudentObj = {
+let StudentObj = {                         // Create a studentObj object       
     studName: "ajit",
     studRoll: 10,
     studAddress: "A/p Varvand, Tel Daund, Dist pune"
-};                                         // Create a studentObj object   
+};                                           
 
 function StudentFun(studData) {            // Create a studentFun function   
     console.log(studData.studName);       // print passing address of student  
@@ -48,11 +48,11 @@ function StudentDetails(studData) {            // Create a studentDetails functi
 StudentDetails({
     studName: "Ram",
     studRoll: 11,
-    studAddress: "Shivaji Nagar, pune 414432"
+    studAddress: "Shivaji Nagar, pune 414432"      // student info obj-1
 }, {
     studName: "Sham",
     studRoll: 11,
-    studAddress: "Hadapsar, pune 432432"
+    studAddress: "Hadapsar, pune 432432"          // student info obj-2
 });    
 
 
