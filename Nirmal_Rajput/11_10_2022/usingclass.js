@@ -7,3 +7,6 @@ class employee  {
 
 let o = new employee("nirmal","rajput");
 console.log(o);
+
+
+
