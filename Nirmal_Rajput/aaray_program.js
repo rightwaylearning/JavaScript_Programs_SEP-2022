@@ -23,6 +23,7 @@ let names =["nirmal","vishva","kuldip","darpan","indra","prashu"];
 
 index = 0;
 while(index < names.length){
+    
     console.log(names[index]);
     index++
 }

@@ -7,11 +7,11 @@ let student = {
 console.log(student);
 
 // add these 2 propetries into array >> division , percentage;
-student.division = "A"; // add new propetry
+student.division = "A"; // add new property
 console.log(student);
 student.name = "Ranjit Patil"; // update
 console.log(student);
-delete student.age; // delete age propetry
+delete student.age; // delete age property
 console.log(student);
 
 //  add percentage;
