@@ -5,8 +5,9 @@ console.log(s);
 
 //>>>>>>>>>>>>>>>>>>>>>
 function sum(){
+    let sum = 0;
     for(let i = 1; i< arguments.length; i++){
-        let sum = 0;
+        
         sum = sum + arguments[i];
     }
     console.log(sum);
