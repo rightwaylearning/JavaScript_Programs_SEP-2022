@@ -7,13 +7,16 @@ function test(){
 }
 let s = test();
  console.log(s) 
- 
+                                                    
 // how to print msg
 
 function test(){
 console.log("hello")
 }
-test();
+
+let a = test("hello")
+console.log(a)
+//test();
 
 // how to  print undefined and msg also
 
