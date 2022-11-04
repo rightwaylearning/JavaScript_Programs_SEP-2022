@@ -47,7 +47,7 @@ let sum6 =  10 + 20 + 30 + '20';
     //   = 60 + '20';
     // = '6020'
 
-    console.log(sum6)
+    console.log(sum6) // '6020'
 let sum7 = '10'+20+30+40;
         // = '1020' + 30 + 40
         // = '102030' + 40
@@ -83,13 +83,12 @@ console.log(true+true+true+''+true+true +false); '3truetruefalse'
 console.log(10+undefined); //NaN
 console.log('10'+ undefined);   '10unedfined'      
 
-
-
-
-
 //object
 
-
+// Note
+// +   have 2 roles
+// 1] to do addition
+// 2] concatination
 
 
 
