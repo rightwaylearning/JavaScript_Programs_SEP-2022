@@ -1,0 +1,20 @@
+
+function add(a,b){
+    return a+b;
+}
+let sum;
+console.log("operation to be performed");
+
+try{
+sum = add1(25,45);
+}
+catch(e){
+    console.log(e.name);
+    console.log(e.message);
+}finally{
+    console.log("I m finally");
+
+}
+console.log("operation is done");
+console.log("sum:-"+sum);
+console.log("next operation please");
