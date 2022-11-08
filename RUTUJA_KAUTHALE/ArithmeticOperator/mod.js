@@ -53,3 +53,5 @@ console.log(rem);  //NaN
 
 //let m=math.mod(10,2);
 //console.log(m);
+
+console.log(undefined<0);
