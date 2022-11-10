@@ -18,6 +18,7 @@ if(exp1() || exp2()){
   console.log("It's false part");
 }
 
+
 let mm = 10; let nn  = 20;
 
 let  result =  (mm == 10 && nn == 20) ?    true  :  "sorry";
