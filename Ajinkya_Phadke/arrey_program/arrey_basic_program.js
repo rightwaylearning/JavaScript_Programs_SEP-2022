@@ -11,10 +11,7 @@ while(index<name.length){
 }
 //print all index values
 
-
-
-
-
+console.log("-----------------------------------");
 
 
 //print only one value(index)
