@@ -1,15 +1,14 @@
-let obj = {
-//     valueof: function () {
-//         return 0;
-//     }
-// }
-// console.log(!!obj);// false
-// console.log(!!undefined);//false
-// //String
-// let n2 = "";
-// console.log(!!n2);
+// let iday,imonth,iyear;
+// imonth=7; iyear=2003;
+// let cmonth=5, cyear=2022;
+//  let month,year;
+//  year=cyear-iyear;
+ 
+// if(cmonth>imonth){
+//     month=cmonth-imonth;
+// }else{
+//     year--;
+//     month=(12-imonth)+cmonth;
 
-// n2 = "sarthak"; let n3 = " ";//void space
-// console.log(!2);//false
-// console.log(!!n3);//true
-}
+// }
+// console.log("Age of given person is ",year, " and month is ",month); //
