@@ -99,6 +99,8 @@ console.log(!!obj1);//true
 
 
 
+
+
 let m=10;
  let n=20;
 
