@@ -4,8 +4,12 @@ console.log(s1);  //30
 s1= '10'+20;
 console.log(s1); //'1020'
 
-s1= 20+ 30 + '20';
+s1= 20+30 + '20';
+//50+ '20'
 console.log(s1);  '5020'
+
+//s1=90+'45'+10+90
+//s1='9045'+10+90
 
 s1= 34+ 'A';
 console.log(s1); //'34A'
@@ -26,6 +30,7 @@ console.log('**************************************************');
 s1=10-true-false-null;
 console.log(s1);  //9
 
+
 s1 = true+ true;
 console.log(s1); //2
 
@@ -40,7 +45,7 @@ console.log(s1);  //10
 
 
 s1=10+20+'1'+true;
-console.log(s1); //301true
+console.log(s1); //'301'+1='3011'
 
 s1= true+true+true+'1'+true+true+false;
 console.log(s1);  //31truetruefalse
