@@ -27,4 +27,11 @@ console.log(result5);
 let r=(null || undefined)?" true": "false";
 console.log(r);
 
+age=17;
+let i=1;
+if(age>=10)
+while(i<=10){
+    console.log(i);
+    i++;
+}
 
