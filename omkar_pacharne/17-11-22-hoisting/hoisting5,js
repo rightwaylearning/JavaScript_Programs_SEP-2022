@@ -1,0 +1,9 @@
+function fun (){
+    var name ='omkar pacharne';
+    console.log(name);
+}
+fun();
+//             omkar pacharne
+
+
+
