@@ -1,4 +1,4 @@
-let day="fri";
+let day="f";
 
 switch (day){
 
