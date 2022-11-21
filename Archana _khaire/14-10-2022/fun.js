@@ -1,6 +1,6 @@
 function print(){
-    let n;
-    for(i=1;i<=n;i++){
+    let i=1;
+    while(i=1;i<=n;i++){
         console.log(i);
         i++;
     }
