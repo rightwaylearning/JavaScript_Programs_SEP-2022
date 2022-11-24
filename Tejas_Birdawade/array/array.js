@@ -11,6 +11,4 @@ while(index < names.length){
   index = index + 1
 
 
-
 }
-
