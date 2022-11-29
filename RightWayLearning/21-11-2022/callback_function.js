@@ -7,3 +7,10 @@ function test(foo){
 test(()=>console.log("I am parameter function"));
 
 //-----------------------------
+// line-------
+//line=----
+//line -----------
+//-------
+//-----
+// -------
+//-------
