@@ -18,4 +18,6 @@ function test(){
     //console.log(copySameMethod); // f()
     //console.log(test); // whole body will print
 
+    
 
+        
