@@ -13,3 +13,5 @@ let obj2 = {message:"please guys take care"}
 
 let copySameMethod = testMe.bind(obj2,100,200);
 copySameMethod();
+
+
