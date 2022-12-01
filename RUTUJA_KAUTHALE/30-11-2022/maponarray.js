@@ -2,7 +2,7 @@ let arr=[
     {
     name:"rutuja",
     age:22,
-    gender:"M"
+    gender:"f"
 },
 {
     name:"rutuja",
@@ -12,21 +12,23 @@ let arr=[
 {
     name:"rutuja",
     age:22,
-    gender:"M"
+    gender:"F"
 }
 ]
 let arr1={male:0, female:0}
 
 arr.filter((prop)=>{
-    for(let i=0; i<arr.length;i++)
+   
+    if(prop.gender=='M' || prop.gender=='m' )
     {
-    if(arr[i].gender)
-    {
-        let count= arr1[prop];
-        count++;
-        arr1[prop]=count;
+        arr1['male']=arr1['male']+1;
     }
-}
+     else if(prop.gender=='F' || prop.gender=='f' )
+    {
+        
+        arr1['female']= arr1['female']+1;
+    }
+
     
 })
 console.log(arr1);
