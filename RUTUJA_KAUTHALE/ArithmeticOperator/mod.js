@@ -3,10 +3,10 @@ console.log("Mode And Reminder");
 
 let rem;
 
-rem= 10%3;
+rem= 10%3;//10/3=3  1
 console.log(rem);  //1
 
-rem= 9%3;
+rem= 9%3;  //9/3=3   reminder=0
 console.log(rem); //0
 
 rem= -10%3;

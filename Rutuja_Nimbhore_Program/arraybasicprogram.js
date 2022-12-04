@@ -3,7 +3,7 @@ console.log(names.length);
 //print the length of array
 
 
-let name=["A","B","C","D","E"];
+let name=["A","B","C" ,"D" ,"E"];
 let index=0;
 while(index<name.length){
     console.log(name[index]);    

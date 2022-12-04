@@ -27,3 +27,4 @@ let flag = true;
 
  let b1="false";
 console.log(typeof b1);  //string
+
