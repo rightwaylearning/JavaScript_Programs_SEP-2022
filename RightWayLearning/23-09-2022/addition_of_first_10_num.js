@@ -1,10 +1,9 @@
-
-// print 1 to n number
-let n = 1;
-let sum = 0;
-while(n < 11){
-    sum = sum + n;
-    n = n+1;
+let sum1=0;
+let number1=1;
+while(number1<=10)
+{
+   sum1=sum1+number1;
+   number1++; 
 }
 
-console.log(sum);
+console.log("sum of 1 to 100 number is "+sum1);
