@@ -16,6 +16,7 @@ console.log('str' + undefined);
 console.log('true' - 1);
 console.log("1" - true);
 console.log(true + 'true');
+console.log('s'-'a');
 console.log("Comparison Operator");
 let r1 = true < false + 1;
 console.log(r1);
