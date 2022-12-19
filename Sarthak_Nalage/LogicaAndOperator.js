@@ -13,7 +13,7 @@ function m1(){
 
     console.log(m2());
   }
- console.log("\n");
+  console.log("\n");
   console.log("@@@ Logical Operation(OR) @@@");
   function m1(){
     console.log("Hii I'm method 1");
