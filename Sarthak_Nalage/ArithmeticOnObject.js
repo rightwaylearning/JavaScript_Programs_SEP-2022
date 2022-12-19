@@ -35,6 +35,14 @@ let obj5={
         return 20;
     }
 }
-console.log(obj5.toString+20);
-console.log(obj5.valueOf+20);
+console.log(obj5.toString()+20);
+console.log(obj5.valueOf()+20);
+let obj6={ 
+}
 
+function name()
+{
+    return 20;
+}
+ console.log(typeof(name));
+console.log(10+obj6);
